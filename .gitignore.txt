@@ -1,0 +1,11 @@
+# Ignore all files in the Users directory except your project folder
+/*
+
+# But track all files inside your project
+!/Documents/PROJECTS/Shortest Route Visualizer/
+
+# Ignore some common system and IDE directories
+.DS_Store
+Thumbs.db
+.vscode/
+node_modules/
